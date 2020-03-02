@@ -1,0 +1,3 @@
+applications:
+- name: teste-jp-2020-02
+  memory: 64M
